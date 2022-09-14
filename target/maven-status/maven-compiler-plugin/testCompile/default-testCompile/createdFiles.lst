@@ -1,0 +1,5 @@
+model\service\TreatmentServiceTest.class
+model\service\DoctorServiceTest.class
+model\service\AssignmentServiceTest.class
+model\service\UserServiceTest.class
+model\service\PatientServiceTest.class
